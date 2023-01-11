@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+li{
+    float: left;
+    padding: 20px;
+}
+
+nav{
+    color: white;
+    background-color: black;
+}
+
+
